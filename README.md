@@ -1,6 +1,6 @@
-## Hi there 👋
-I'm Yash Dhumal!
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+# Hi, I'm Yash Dhumal!
+
+![Working GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 - 👨‍🎓 I'm a final year Computer Engineering student.
 - 🌐 Recently, I completed a 4-week internship focusing on Emerging Technologies, where I honed my skills in AI and Cloud computing using the IBM Cloud Platform and SkillsBuild.
