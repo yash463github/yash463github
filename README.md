@@ -25,3 +25,10 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+### Contact Me
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-dhumal-0b21a0261) 
+[![Twitter](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/snehal_ko) 
+[![Instagram](https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ig_yash463/)
