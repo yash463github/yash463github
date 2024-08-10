@@ -30,5 +30,5 @@
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-dhumal-0b21a0261) 
-[![Twitter](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/snehal_ko) 
+[![Twitter](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YashDhu58007261) 
 [![Instagram](https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ig_yash463/)
